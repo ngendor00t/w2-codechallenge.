@@ -15,11 +15,16 @@ const response = await fetch("https://my-json-server.typicode.com/ngendor00t/pet
     <h2>${pet.name}</h2>
     <img src=${pet.image} />
     <h2>${pet.votes}</h2>
-    
-    
-    
     </div>
-    `; 
+    
+
+
+
+    
+    
+    
+   </dv;
+    ; `
     // display the fetched to html 
     // i researched this since the for loop and fetch didnt connect to my local host
 
@@ -29,8 +34,7 @@ const response = await fetch("https://my-json-server.typicode.com/ngendor00t/pet
 
 logPets()
 //i console logged the pets
- 
-function onButtonClick(){
-    alert('button click');
-}
-document.querySelector('h1');
+ function buttonOnclick(){
+    alert(buttonClicked)
+ }
+ Pets.addEventlistener("click")
