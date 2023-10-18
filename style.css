@@ -2,19 +2,27 @@ body{
     background-color:plum;
 }
 h1{
-    text-align: center;
+    /* text-align: center;
     color: black;
     font-size:x-large;
-    margin: auto;
+    margin: auto; */
+}
+#toAppend{
+    display: flex;
+
 }
 .card{
-    text-align:left;
+    
     color: black;
-    font-size: medium;
-    margin :auto;
-    border: dashed;
+
+    width: 200px;
+     flex-direction:column ;
     
+}
+.card img {
+    width: 150px; 
     
+
 }
 
 
