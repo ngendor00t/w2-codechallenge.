@@ -30,7 +30,7 @@ const response = await fetch("http://localhost:3000/characters")
 logPets()
 //i console logged the pets
  function buttonOnclick(){
-    alert(buttonClicked)
+    alert(buttonClick)
  }
 //  Pets.addEventlistener("click")
  
