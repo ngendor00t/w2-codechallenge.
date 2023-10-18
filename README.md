@@ -51,7 +51,8 @@ serverhttps://my-json-server.typicode.com/ngendor00t/pets-server/db
 
 i created a new repo pet server to be able to get the data
 using git hub
- secondly the images for the page couldnt load
+ secondly the images for the page couldnt load even after opening them via new links
+ or links that worked they couldnt load .
  
 
 
