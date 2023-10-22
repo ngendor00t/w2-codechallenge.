@@ -47,7 +47,7 @@ we link the file to html since its external
 
 ## problems encountered
 firt i was unable to connect to local host due to that i had to create my own 
-serverhttps://my-json-server.typicode.com/ngendor00t/pets-server/db
+server ```https://my-json-server.typicode.com/ngendor00t/pets-server/db```
 
 i created a new repo pet server to be able to get the data
 using git hub
