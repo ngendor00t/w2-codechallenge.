@@ -1,6 +1,6 @@
 
 async function logPets() {
-const response = await fetch(https://my-json-server.typicode.com/ngendor00t/w2-codechallenge./characters)
+const response = await fetch("https://my-json-server.typicode.com/ngendor00t/w2-codechallenge./characters")
 .then((response) => response.json())
 .then(data => data) 
 //i used my own link after creating it i fetched the data for the animals.
